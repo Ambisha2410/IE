@@ -1,0 +1,137 @@
+Type,Row Labels,Balloon,Fishing,Hard Plastic,Other,Soft Plastic,Black,Blue,Brown,Clear,Green,Grey,Orange,Red,White,Yellow,Species,Scientific Name,Family,Order,Habitat,Feeding
+Bird,25,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Antarctic Prion,Pachyptila desolata,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,120,0,0,18,0,1,0,3,1,3,0,0,0,0,12,0,Antarctic Prion,Pachyptila desolata,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,226,0,0,2,0,0,0,0,0,1,0,0,0,0,1,0,Antarctic Prion,Pachyptila desolata,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,301,0,0,3,1,0,0,0,3,0,0,0,0,1,0,0,Antarctic Prion,Pachyptila desolata,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,309,0,4,0,0,0,0,0,3,1,0,0,0,0,0,0,Australia Pelican,Pelecanus conspicillatus,Pelecanidae,Pelecaniformes,Coastal marine,Surface feeding
+Bird,310,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,Australia Pelican,Pelecanus conspicillatus,Pelecanidae,Pelecaniformes,Coastal marine,Surface feeding
+Bird,315,0,0,0,19,1,0,15,0,3,0,0,0,0,2,0,Australia Pelican,Pelecanus conspicillatus,Pelecanidae,Pelecaniformes,Coastal marine,Surface feeding
+Bird,223,0,1,0,0,2,0,1,2,0,0,0,0,0,0,0,Bullers Albatross,Thalassarche bulleri,Diomedeiadae,Procellariiformes,Pelagic,Surface feeding
+Bird,225,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,253,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,259,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,262,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,264,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,271,0,0,3,0,0,0,0,0,0,0,0,0, ,3,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,280,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,291,0,0,1,0,4,0,1,0,4,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,296,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,300,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,328,0,1,1,0,1,0,1,2,0,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,334,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,337,0,0,0,0,4,0,0,0,4,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,339,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,340,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,343,0,0,4,0,0,0,1,0,0,0,0,1,0,2,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,344,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,360,0,0,3,0,0,1,0,0,0,0,0,0,0,2,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,362,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Fairy Prion,Pachyptila turtur,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,58,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,Fluttering Shearwater,Puffinus gavia,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,59,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Fluttering Shearwater,Puffinus gavia,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,60,0,0,1,0,2,0,3,0,0,0,0,0,0,0,0,Fluttering Shearwater,Puffinus gavia,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,290,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,Fluttering Shearwater,Puffinus gavia,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,318,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Gould's Petrel,Pterodroma leucoptera,Procellariidae,Procellariiformes,Pelagic,
+Bird,319,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,Gould's Petrel,Pterodroma leucoptera,Procellariidae,Procellariiformes,Pelagic,
+Bird,297,0,0,1,0,2,1,0,1,0,0,0,0,0,1,0,Little Shearwater,Puffinus assimilis,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,15,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Pied Cormorant,Phalacrocorax varius,Phalacrocoracidae,Suliformes,Coastal marine,Diving
+Bird,16,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,Pied Cormorant,Phalacrocorax varius,Phalacrocoracidae,Suliformes,Coastal marine,Diving
+Bird,78,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Pied Cormorant,Phalacrocorax varius,Phalacrocoracidae,Suliformes,Coastal marine,Diving
+Bird,140,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Pied Cormorant,Phalacrocorax varius,Phalacrocoracidae,Suliformes,Coastal marine,Diving
+Bird,148,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Pied Cormorant,Phalacrocorax varius,Phalacrocoracidae,Suliformes,Coastal marine,Diving
+Bird,185,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Pied Cormorant,Phalacrocorax varius,Phalacrocoracidae,Suliformes,Coastal marine,Diving
+Bird,293,0,0,20,0,0,0,2,0,0,0,0,0,0,18,0,Pied Oystercatcher,Haematopus longirostris,Haematopodidae,Charadriiformes,Coastal beach,Probe with bill
+Bird,294,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,Salvin's Prion,Pachyptila salvini,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,295,0,0,13,0,1,2,1,5,3,2,0,0,0,1,0,Salvin's Prion,Pachyptila salvini,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,10,0,1,13,0,1,8,0,1,0,0,0,0,0,6,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,11,0,0,8,2,0,6,0,4,0,0,0,0,0,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,13,0,0,2,0,0,1,0,0,0,0,0,0,0,1,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,14,0,0,3,0,0,1,0,1,0,0,0,0,0,1,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,92,0,0,10,0,3,4,0,1,6,0,0,0,0,1,1,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,110,0,0,7,0,0,3,0,2,0,1,0,0,1,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,111,0,0,16,0,0,3,0,0,2,0,0,0,1,10,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,112,0,0,19,0,7,10,3,3,0,0,2,0,0,8,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,128,0,0,3,1,0,2,0,1,1,0,0,0,0,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,129,6,0,3,0,0,1,0,1,0,0,0,0,6,1,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,130,6,0,4,0,0,3,0,0,0,1,0,6,0,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,132,0,0,2,0,1,1,1,0,1,0,0,0,0,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,164,0,0,1,2,1,0,0,1,0,0,0,0,0,3,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,165,2,0,8,0,7,2,1,2,2,2,0,1,5,1,1,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,166,0,0,6,0,12,2,6,1,3,0,0,0,1,5,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,167,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,168,5,0,9,0,2,6,1,1,0,0,0,5,1,1,1,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,169,6,0,1,0,0,1,0,0,0,0,0,0,6,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,170,0,0,14,0,0,10,0,2,0,0,0,0,1,1,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,171,0,0,4,1,0,0,0,2,0,0,0,0,1,2,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,172,0,0,7,1,0,1,2,2,0,0,0,0,1,2,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,173,2,0,5,0,1,0,1,1,0,0,0,0,2,3,1,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,174,2,0,2,0,0,0,3,0,0,0,0,0,1,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,206,1,0,12,0,0,4,1,4,0,0,0,0,0,1,3,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,207,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,260,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,321,1,0,6,5,0,1,1,4,0,0,0,0,0,1,5,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,403,0,0,6,0,0,1,0,1,1,1,0,0,0,1,1,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,20,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,Shy Albatross,Thalassarche cauta,Diomedeiadae,Procellariiformes,Pelagic,Surface feeding
+Bird,355,0,2,0,0,0,0,0,1,0,0,0,0,0,0,1,Silver Gull,Chroicocephalus novaehollandiae,Laridae,Charadriiformes,Coastal beach,Pick from beach
+Bird,121,0,0,8,0,1,1,0,2,0,0,0,0,0,6,0,Slender Billed Prion,Pachyptila belcheri,Procellariidae,Procellariiformes,Pelagic,Flight feeding
+Bird,299,2,0,8,2,0,0,4,3,0,0,0,1,2,2,0,Slender Billed Prion,Pachyptila belcheri,Procellariidae,Procellariiformes,Pelagic,Flight feeding
+Bird,108,1,0,24,0,0,0,0,0,2,0,0,0,0,19,4,Southern Giant Petrel,Macronectes giganteus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,175,1,0,4,0,0,0,0,0,0,0,0,0,4,1,0,Southern Giant Petrel,Macronectes giganteus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,351,0,0,9,0,0,1,0,6,0,0,0,0,0,2,0,Southern Giant Petrel,Macronectes giganteus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,41,0,0,9,0,0,0,0,1,3,2,0,0,0,3,0,Wedge Tailed Shearwater,Puffinus pacificus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,44,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Wedge Tailed Shearwater,Puffinus pacificus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,47,0,0,2,0,0,0,0,0,1,0,0,0,0,0,1,Wedge Tailed Shearwater,Puffinus pacificus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,53,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Wedge Tailed Shearwater,Puffinus pacificus,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Bird,116,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,Westland Black Petrel,Procellaria westlandica,Procellariidae,Procellariiformes,Pelagic,Surface feeding
+Trawl,1,0,0,0,4,2,1,2,0,1,1,1,0,0,0,0,,,,,,
+Trawl,2,0,0,2,2,2,1,1,0,1,1,0,0,0,2,0,,,,,,
+Trawl,3,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,,,,,,
+Trawl,4,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,,,,,,
+Trawl,5,0,0,3,3,4,1,4,0,0,1,0,0,0,3,1,,,,,,
+Trawl,6,0,0,3,1,0,1,0,0,0,0,0,0,0,3,0,,,,,,
+Trawl,7,0,0,5,0,4,0,1,0,0,2,0,0,0,3,3,,,,,,
+Trawl,8,0,0,1,1,4,2,3,0,0,1,0,0,0,0,0,,,,,,
+Trawl,9,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,,,,,,
+Trawl,10,0,0,1,0,3,0,0,0,1,1,0,0,1,1,0,,,,,,
+Trawl,11,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,,,,,,
+Trawl,12,0,0,9,1,3,0,3,0,1,0,0,0,0,9,0,,,,,,
+Trawl,13,0,0,3,0,8,0,6,0,2,2,0,0,0,1,0,,,,,,
+Trawl,14,0,0,0,6,2,8,0,0,0,0,0,0,0,0,0,,,,,,
+Trawl,15,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,,,,,,
+Trawl,16,0,0,1,4,1,1,0,0,0,0,0,0,0,4,0,,,,,,
+Trawl,17,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,,,,,,
+Trawl,18,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,,,,,,
+Trawl,19,0,0,35,0,7,0,7,0,11,0,1,0,1,22,0,,,,,,
+Trawl,20,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,,,,
+Trawl,21,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,,,,
+Trawl,22,0,0,2,1,1,1,0,1,0,0,0,0,0,2,0,,,,,,
+Trawl,23,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,,,,,,
+Trawl,24,0,0,0,3,0,0,0,0,0,2,1,0,0,0,0,,,,,,
+Trawl,25,0,0,10,4,1,0,3,3,0,5,0,0,0,4,0,,,,,,
+Trawl,26,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,,,,,,
+Trawl,27,0,0,0,3,2,0,4,0,1,0,0,0,0,0,0,,,,,,
+Trawl,28,1,0,2,0,0,0,0,0,0,1,0,0,0,2,0,,,,,,
+Trawl,29,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,,,,,,
+Trawl,30,0,0,1,2,5,0,5,0,0,0,0,0,0,3,0,,,,,,
+Trawl,31,0,0,3,0,2,0,5,0,0,0,0,0,0,0,0,,,,,,
+Trawl,32,0,0,0,1,2,0,0,0,0,0,1,0,0,2,0,,,,,,
+Trawl,33,0,0,3,8,12,0,11,0,0,0,1,0,1,10,0,,,,,,
+Trawl,34,0,0,1,2,9,0,4,0,1,0,0,0,2,4,1,,,,,,
+Trawl,35,0,0,4,1,10,0,3,0,6,0,2,1,0,3,0,,,,,,
+Trawl,36,0,0,0,0,6,0,5,0,0,0,0,0,0,1,0,,,,,,
+Trawl,37,0,0,2,2,4,0,6,0,0,0,2,0,0,0,0,,,,,,
+Trawl,38,0,4,1,0,2,5,1,0,1,0,0,0,0,0,0,,,,,,
+Trawl,39,0,0,0,2,17,1,15,0,1,0,0,0,0,2,0,,,,,,
+Trawl,40,0,1,7,2,19,1,19,0,1,0,0,1,1,6,0,,,,,,
+Trawl,41,0,0,0,0,21,1,19,0,0,0,0,0,1,0,0,,,,,,
+Trawl,42,0,0,4,1,2,2,1,0,2,0,0,0,0,0,2,,,,,,
+Trawl,43,0,0,0,4,0,0,0,0,0,0,0,0,3,1,0,,,,,,
+Trawl,44,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,,,,,,
+Trawl,45,0,0,16,4,0,0,2,0,4,1,0,0,0,13,0,,,,,,
+Trawl,46,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,,,,,,
+Trawl,47,0,4,2,1,2,1,1,0,0,6,0,0,0,1,0,,,,,,
+Trawl,48,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,,,,,,
+Trawl,49,0,0,1,0,3,0,3,0,0,0,0,0,0,1,0,,,,,,
+Trawl,50,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,,,,,,
+Trawl,51,0,1,3,2,0,0,0,0,2,0,0,0,0,3,0,,,,,,
+Trawl,52,0,0,3,0,2,0,0,0,0,1,0,0,1,3,0,,,,,,
+"*note: this is a cleaned dataset used for analysis in the paper: some of the single species samples were removed and not analysed, and some of the samples where debris was collected but degraded before it could be measured/categorised was also not included. ",,,,,,,,,,,,,,,,,,,,,,
