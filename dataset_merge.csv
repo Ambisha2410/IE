@@ -1,4 +1,4 @@
-Type,Row Labels,Species,Scientific Name,Family,Order,Habitat,Feeding,Plastic color,Color_no,Plastic type,Plastic_no
+Type,Row Labels,Species,Scientific Name,Family,Order,Habitat,Feeding,PlasticColor,Color_no,PlasticType,Plastic_no
 Bird,10,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding,Black,8,Balloon,0
 Bird,10,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding,Black,8,Hard Plastic,13
 Bird,10,Short Tailed Shearwater,Puffinus tenuirostris,Procellariidae,Procellariiformes,Pelagic,Surface feeding,Black,8,Other,0
